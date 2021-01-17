@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "MultipeerHelper",
+        "repositoryURL": "https://github.com/maxxfrazer/MultipeerHelper.git",
+        "state": {
+          "branch": null,
+          "revision": "dbf5d3b1f38349da8557330401698f81de76aa28",
+          "version": "1.1.0"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
